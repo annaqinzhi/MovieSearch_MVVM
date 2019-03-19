@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Search</string>
+    <string name="movie">Movie:</string>
+    <string name="genre">Genre:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="plot">Plot:</string>
+    <string name="countryOfOrigin">Country of origin:</string>
+    <string name="spokenLanguage">Spoken language:</string>
+    <string name="name_rating">★</string>
+</resources>
